@@ -11,3 +11,5 @@ For purpose of my presentation I have cleared it and delete recurring cases. I h
 ![wine4](https://github.com/Midlett/Micha-Bakalarz-Journey-with-Spanish-wines-/assets/152083456/018ddc8d-b7e3-4274-8c71-dc18463e7cf7)
 ![wina5](https://github.com/Midlett/Micha-Bakalarz-Journey-with-Spanish-wines-/assets/152083456/93ed1f65-f95e-4b29-ac06-a18e568c61f2)
 ![wina3](https://github.com/Midlett/Micha-Bakalarz-Journey-with-Spanish-wines-/assets/152083456/7e540859-9c58-446a-82d5-613fdfef38c1)
+
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
