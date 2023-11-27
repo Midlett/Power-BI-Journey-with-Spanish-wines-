@@ -1,4 +1,4 @@
-# Michał-Bakalarz-Journey-with-Spanish-wines
+# Power-BI-Journey-with-Spanish-wines
 
 Presentation is based on dataset that contains 7500 different types of red wines from Spain with 11 features that describe their price, rating, and even some flavor description. You can move around between layers of report and look for some insights about your favorite Spanish wines.
 
