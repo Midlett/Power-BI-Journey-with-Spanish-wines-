@@ -1,5 +1,5 @@
 # Power-BI-Journey-with-Spanish-wines
-
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 Presentation is based on dataset that contains 7500 different types of red wines from Spain with 11 features that describe their price, rating, and even some flavor description. You can move around between layers of report and look for some insights about your favorite Spanish wines.
 
 #### It was collected by user FEDESORIANO and downloaded from https:www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset. 
@@ -12,4 +12,4 @@ For purpose of my presentation I have cleared it and delete recurring cases. I h
 ![wina5](https://github.com/Midlett/Micha-Bakalarz-Journey-with-Spanish-wines-/assets/152083456/93ed1f65-f95e-4b29-ac06-a18e568c61f2)
 ![wina3](https://github.com/Midlett/Micha-Bakalarz-Journey-with-Spanish-wines-/assets/152083456/7e540859-9c58-446a-82d5-613fdfef38c1)
 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
