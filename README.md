@@ -3,7 +3,7 @@
 
 Presentation is based on dataset that contains 7500 different types of red wines from Spain with 11 features that describe their price, rating, and even some flavor description. You can move around between layers of report and look for some insights about your favorite Spanish wines.
 
-#### It was collected by user FEDESORIANO and downloaded from www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset.
+#### It was collected by user FEDESORIANO and downloaded from [here](www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset).
 
 For purpose of my presentation I have cleared it and delete recurring cases. I have also widened it with few other informations. I tried to show collected data in form of journey of Spanish wine regions. 
 
